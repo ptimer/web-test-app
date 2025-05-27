@@ -24,7 +24,7 @@ export default function Users() {
     <table className="w-full border-collapse mt-4">
       <thead>
         <tr>
-          <th onClick={sortByName} className="cursor-pointer text-left">Name ⬍</th>
+          <th onClick={sortByName} className="cursor-pointer text-left">Name &#11021;</th>
           <th className="text-left">Email</th>
         </tr>
       </thead>
