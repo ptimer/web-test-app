@@ -3,7 +3,7 @@
 A modern React application built with TypeScript, Vite, and TailwindCSS.
 
 ## Live Preview
-Check out the live demo: [demo](https://web-test-app-ochre.vercel.app/users)
+Check out the live demo: [demo](https://web-test-app-ochre.vercel.app)
 
 ## Setup Instructions
 
